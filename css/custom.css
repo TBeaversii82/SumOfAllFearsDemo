@@ -1,0 +1,34 @@
+﻿body {
+    background-image: linear-gradient(to right, gray, blue);
+}
+
+p{
+    color: red;
+    font-size: x-large; 
+}
+
+.numInput{
+    background-color: darkgrey;
+    color: antiquewhite;
+}
+
+.kInput{
+    background-color: crimson;
+    color: black;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: black;
+}
+
+::-moz-placeholder { /* Firefox 19+ */
+    color: black;
+}
+
+:-ms-input-placeholder { /* IE 10+ */
+    color: black;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+    color: black;
+}
